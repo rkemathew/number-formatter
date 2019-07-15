@@ -7,10 +7,14 @@
   },
   "author": "Ronnie Mathew",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ronnie-bs/number-formatter/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkemathew/number-formatter.git"
   },
-  "homepage": "https://github.com/ronnie-bs/number-formatter#readme",
+  "bugs": {
+    "url": "https://github.com/rkemathew/number-formatter/issues"
+  },
+  "homepage": "https://github.com/rkemathew/number-formatter#readme",
   "description": "",
   "engines": {
     "node": ">=4.2.4"
