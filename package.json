@@ -1,0 +1,26 @@
+{
+  "name": "@ronnie-bs/number-formatter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnie-bs/number-formatter.git"
+  },
+  "author": "Ronnie Mathew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronnie-bs/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ronnie-bs/number-formatter#readme",
+  "description": "",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
