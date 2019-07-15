@@ -5,10 +5,6 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ronnie-bs/number-formatter.git"
-  },
   "author": "Ronnie Mathew",
   "license": "MIT",
   "bugs": {
